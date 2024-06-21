@@ -1,0 +1,11 @@
+.error{
+    color: red;
+}
+
+.view-order i {
+    font-size: 20px !important;
+}
+
+.nav-item .active {
+    background-color: #EC407A !important;
+}
